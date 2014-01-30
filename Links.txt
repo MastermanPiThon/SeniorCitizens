@@ -1,0 +1,4 @@
+Python Emotiv library:
+https://github.com/ozancaglayan/python-emotiv
+https://github.com/openyou/emokit
+https://github.com/daeken/Emokit/blob/master/Announcement.md

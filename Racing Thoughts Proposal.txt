@@ -1,0 +1,7 @@
+	This is a car-racing game in which the player controls their car with their mind, using the Emotiv Epoc. There are thirteen conscious thoughts that the Epoc can detect: “move left,” “move right,” “move up,” “move down,” “move forward,” “move back,” “turn clockwise,” “turn counterclockwise,” “turn left,” “turn right,”  “lean back,” “lean forward,” and “disappear.” It can also detect certain emotions, facial expressions, and types of head movement (pitch―like nodding, and yaw―like shaking your head).
+	This game would probably use head pitch to control speed and head yaw to control turning, with the conscious thoughts (which have lag) controlling special moves―perhaps there could even be a way to make the car fly. The emotion- and expression-detecting capabilities would probably not be used, though the emotion-detecting could possibly be used to control things like difficulty.
+	
+	Materials:
+-The rasberry pi
+-The Emotiv Epoc
+-A keyboard (optional―for extra controls, though they probably won't be necessary)
